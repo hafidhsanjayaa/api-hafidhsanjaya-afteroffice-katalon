@@ -18,9 +18,14 @@ build
 .cache
 
 .settings/
+
 settings/
+
 Include/
+
 Scripts/
+
 build.gradle
+
 console.properties
 
