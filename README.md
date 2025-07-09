@@ -54,9 +54,9 @@ README.md
 ---
 
 ## 🖼️ Sample API Screenshots
-![Test script](Screenshots/test script - create user.jpg)
+![Test script](Screenshots/test-script-create-user.jpg)
 
-![Test result](Screenshots/test result - create user.jpg)
+![Test result](Screenshots/test-result-create-user.jpg)
 
 ---
 
