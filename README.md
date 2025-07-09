@@ -54,11 +54,11 @@ README.md
 
 ---
 
-## 🖼️ Sample Screenshots
+## 🖼️ Sample API Screenshots
 Test script - create user
-
+![Create User](Screenshots/test script - create user.png)
 Test result - create user
-
+![Create User](Screenshots/test result - create user.png)
 ---
 
 ## 🙋‍♂️ Author
