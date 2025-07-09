@@ -51,13 +51,12 @@ To demonstrate the ability to:
 .gitignore
 README.md
 
-
 ---
 
 ## 🖼️ Sample API Screenshots
-![Create User](Screenshots/test script - create user.jpg)
+![Test script](Screenshots/test script - create user.jpg)
 
-![Image](Screenshots/test result - create user.jpg)
+![Test result](Screenshots/test result - create user.jpg)
 
 ---
 
