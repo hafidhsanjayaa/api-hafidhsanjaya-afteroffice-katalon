@@ -54,8 +54,10 @@ README.md
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Sample Screenshots
+Test script - create user
 
+Test result - create user
 
 ---
 
